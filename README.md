@@ -1,0 +1,2 @@
+- Use fetch_data.py to retrieve historical crypto data
+- Use back2.ipynb to backtest and visualise data in the interactive jupyter-notebook
