@@ -4,3 +4,4 @@ BTC_USDT_15m_cleaned.csv
 BTC_USDT_15m_with_opposite_direction_analysis.csv
 BTC_USDT_15m.csv
 backtest.ipynb
+.DS_Store
